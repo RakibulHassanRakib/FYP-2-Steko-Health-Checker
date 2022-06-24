@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "479644995122",
+    "project_id": "steko-health-checker-e19f9",
+    "storage_bucket": "steko-health-checker-e19f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479644995122:android:3533e591adf890cefeb62b",
+        "android_client_info": {
+          "package_name": "com.stekohealthchecker.steko_health_checker_app_fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479644995122-re8bb9uueoje1fqq306lrad431augvg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stekohealthchecker.steko_health_checker_app_fyp",
+            "certificate_hash": "841c9d381f7c9247cc87fa3c7440131af383fd9e"
+          }
+        },
+        {
+          "client_id": "479644995122-3qrd7vt3ab4qss2j67lpfbc7ci6uce1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIIUOaq_UUYeYuchpPRmAHLnzYHFvzTVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479644995122-3qrd7vt3ab4qss2j67lpfbc7ci6uce1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
